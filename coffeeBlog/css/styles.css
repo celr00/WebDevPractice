@@ -129,11 +129,11 @@ img {
     }
 }
 
-.entrada {
+.entry {
     border-bottom: 1px solid var(--claro);
     margin-bottom: 2rem;
 }
-.entrada:last-of-type {
+.entry:last-of-type {
     border:none;
     margin-bottom: 0;
 }
