@@ -100,7 +100,7 @@ img {
 .logo {
     color: var(--blanco);
 }
-.logo__nombre {
+.logo__name {
     font-weight: normal;
 }
 .logo__bold {
