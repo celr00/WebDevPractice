@@ -78,7 +78,7 @@ img {
     background-repeat: no-repeat;
     background-position: center center;
 }
-.header__texto {
+.header__text {
     color: var(--blanco);
     margin-top: 5rem;
 }
