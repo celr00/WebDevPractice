@@ -87,11 +87,11 @@ img {
         margin-top:15rem
     }
 }
-.barra {
+.bar {
     padding: 4rem;
 } 
 @media (min-width: 768px) {
-    .barra {
+    .bar {
         display: flex;
         justify-content: space-between;
         align-items: center;
