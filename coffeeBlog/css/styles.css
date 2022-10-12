@@ -107,12 +107,12 @@ img {
     font-weight: bold;
 }
 @media (min-width: 768px) {
-    .navegacion{
+    .navigation{
         display: flex;
         gap: 2rem;
     }
 }
-.navegacion__enlace {
+.navigation__link {
     display: block;
     text-align: center;
     font-size: 1.8rem;
