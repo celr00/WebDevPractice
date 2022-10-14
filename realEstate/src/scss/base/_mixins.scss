@@ -1,6 +1,6 @@
 /** Media Queries **/
-@mixin telefono {
-    @media (min-width: #{$telefono}) {
+@mixin cellphone {
+    @media (min-width: #{$cellphone}) {
         @content;
     }
 }
@@ -16,8 +16,8 @@
         @content;
     }
 }
-@mixin grid($columnas, $espaciado ) {
+@mixin grid($columns, $spacing) {
     display: grid;
-    gap: $espaciado;
-    grid-template-columns: repeat($columnas, 1fr);
+    gap: $spacing;
+    grid-template-columns: repeat($columns, 1fr);
 }
