@@ -3,3 +3,8 @@
 @import 'base/mixins';
 @import 'base/global';
 @import 'base/utilities';
+
+/** UI **/
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/navigation';
