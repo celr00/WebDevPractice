@@ -1,9 +1,10 @@
+
 .footer {
     background-color: $darkGray;
-    padding: $spacing / 2 0;
+    padding: div($spacing, 2) 0;
 
     .footer-container {
-        padding-top: $spacing / 2;
+        padding-top: div($spacing, 2);
     }
 
     .copyright {
